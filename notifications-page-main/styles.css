@@ -1,3 +1,4 @@
+
 .main-card {
     width: 600px;
     height: 800px;
@@ -5,7 +6,9 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 12px;
     background-color: antiquewhite;
     border-radius: 12px;
+    font-family:'Plus Jakarta Sans';
 }
+
 .main-page{
   position: absolute;
   width: 100%;
@@ -17,4 +20,20 @@
 .card-wrapper {
     justify-content: center;
     align-items: center;
+}
+.card-pica {
+  padding: 20px 30px;
+}
+.notif {
+  font-size: 20pt;
+  font-weight: 600;
+}
+
+.pepega {
+  padding-right: 10px;
+}
+
+.custom-button {
+  width: 34px;
+  height: 30px;
 }
